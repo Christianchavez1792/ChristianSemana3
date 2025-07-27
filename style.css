@@ -1,0 +1,18 @@
+header{
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#LogoAndeaHeader {
+    width: 5%;
+    height: auto;
+}
+
+.nav-list{
+    list-style-type: none;
+    border: 1px solid black;
+}
+
+.nav-list-item {
+    display: inline-block;
+}   
